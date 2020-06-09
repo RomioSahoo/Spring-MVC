@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="136"/>
+		<item key="DIALOG_Y_ORIGIN" value="269"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\Romio\eclipse-workspace\Hibernate"/>
+			<item value="C:\Users\Romio\Desktop\ProjectProposal\ProjectProposal"/>
+			<item value="C:\Users\Romio\Downloads\ProjectProposal\ProjectProposal"/>
+			<item value="C:\Users\Romio\Desktop\spring-mvc-user-registration-and-login-example-using-jdbctemplate-mysql\spring-mvc-user-reg-login\spring-mvc-user-reg-login"/>
+			<item value="C:\Users\Romio\Desktop\spring-mvc-user-registration-and-login-example-using-jdbctemplate-mysql\spring-mvc-user-reg-login"/>
+			<item value="C:\Users\Romio\Downloads\EmployeeManagement_WebApp_Latest"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>

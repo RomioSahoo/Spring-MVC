@@ -1,0 +1,54 @@
+@charset "ISO-8859-1";
+
+.heading {
+	padding: 50px;
+	text-align: center;
+	background: #003399;
+	border: 5px solid black;
+	color: white;
+	font-size: 20px;
+}
+
+.row {
+	width: 20%;
+	padding: 12px;
+	text-align: center;
+	margin: 10px 0;
+	display: inline-block;
+	line-height: 20px;
+	text-decoration: none;
+	background-color: #3B5998;
+	color: white;
+	font-size: 20px;
+}
+
+.container {
+	padding: 16px;
+	background-color: white;
+}
+
+.button {
+	background-color: #3B5998;
+	font-size: 15px;
+	color: white;
+	padding: 10px 10px;
+	margin: 15px 0;
+	cursor: pointer;
+	width: 100%;
+}
+
+tr {
+	font-size: 20px;
+}
+
+input {
+	width: 300%;
+	padding: 15px;
+	margin: 5px 0 20px 0;
+	display: inline-block;
+	background: #f1f1f1;
+}
+
+table {
+	margin: 30px 0 0 150px;
+}

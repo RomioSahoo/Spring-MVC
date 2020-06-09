@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;modelAndView&apos; from expression &apos;new ModelAndView()&apos;&#x0D;&#x0A;- Original project: &apos;SpringMVCDemoU&apos;&#x0D;&#x0A;- Variable name: &apos;modelAndView&apos;&#x0D;&#x0A;- Destination method: &apos;com.Springmvc.HelloController.hello()&apos;&#x0D;&#x0A;- Variable expression: &apos;new ModelAndView()&apos;" description="Extract local variable &apos;modelAndView&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.Springmvc{HelloController.java" name="modelAndView" replace="false" selection="223 16" stamp="1586359093660" varType="false" version="1.0"/>
+</session>

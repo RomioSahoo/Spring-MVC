@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\Romio\eclipse-workspace1\E_Project_Proposal_And_Purchase\WebContent\adminLoginError.jsp"/>
+			<item value="C:\Users\Romio\Downloads\EmployeeManagement_WebApp_Latest\src\com\empmang\util\DbUtil.java"/>
+			<item value="C:\Users\Romio\eclipse-workspace1\UserRegistration\pom.xml"/>
+			<item value="C:\Users\Romio\eclipse-workspace1\testMaven\src\main\java\testMaven\Client.java"/>
+			<item value="C:\Users\Romio\eclipse-workspace1\ForgottenPass\src\com\bo\UserBoImpl.java"/>
+			<item value="C:\Users\Romio\eclipse-workspace1\RegistrationFormMVC\src\main\webapp\final.jsp"/>
+			<item value="C:\Users\Romio\eclipse-workspace1\MVCRegistrationForm"/>
+			<item value="C:\Users\Romio\eclipse-workspace1\ElectricBillMVC\src\main\webapp\viewPage.jsp"/>
+			<item value="C:\Users\Romio\eclipse-workspace1\SpringMVCDemoU\src\main\java\com\Springmvc\HelloController.java"/>
+			<item value="C:\Users\Romio\eclipse-workspace1\ForgottenPass\WebContent\index.html"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.cognizant.Eproject.E_ProjectProposalAndPurchase_Webapp"/>
+		</list>
+		<list key="groupId">
+			<item value="com.cognizant.Eproject"/>
+		</list>
+		<list key="artifactId">
+			<item value="E_ProjectProposalAndPurchase_Webapp"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="E_ProjectProposalAndPurchase_WebApp"/>
+			<item value="E_Project_Proposal_And_Purchase"/>
+			<item value="ForgottenPass"/>
+			<item value="LoginDemo"/>
+			<item value="LoggerDemo"/>
+			<item value="FrontController"/>
+			<item value="JSTLdemo2"/>
+			<item value="JSTLdemo1"/>
+			<item value="JSTLDemo"/>
+			<item value="ElectricityBill"/>
+			<item value="WEBTEST"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="E_ProjectProposalAndPurchase_WebApp"/>
+			<item value="E_Project_Proposal_And_Purchase"/>
+			<item value="ForgottenPass"/>
+			<item value="LoginDemo"/>
+			<item value="LoggerDemo"/>
+			<item value="FrontController"/>
+			<item value="JSTLdemo2"/>
+			<item value="JSTLdemo1"/>
+			<item value="JSTLDemo"/>
+			<item value="ElectricityBill"/>
+			<item value="WEBTEST"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+	</section>
+</section>

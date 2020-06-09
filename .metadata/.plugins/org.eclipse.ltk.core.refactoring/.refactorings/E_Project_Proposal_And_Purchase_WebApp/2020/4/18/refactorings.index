@@ -1,0 +1,10 @@
+1588080045586	Rename package 'org.websparrow.config'
+1588080062839	Rename package 'org.websparrow.controller'
+1588080076430	Rename package 'org.websparrow.dao'
+1588080092309	Rename package 'org.websparrow.model'
+1588080420270	Rename type 'User'
+1588082087964	Rename type 'UserLoginController'
+1588082099863	Rename type 'UserRegistrataionController'
+1588082135774	Rename type 'UserDao'
+1588082150008	Rename type 'UserDaoImpl'
+1588138449799	Delete element

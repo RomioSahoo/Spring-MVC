@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<modules>
+  <module moduleId="org.eclipse.jst.jee.server:FrontController" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:EmployeeSpringMVC" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:SpringMVCDemo1" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:ServletChainingDemo" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:JSTLdemo1" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:JSTLdemo2" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:UserRegistration" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:SpringMVCDemo" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:E_Project_Proposal_And_Purchase_WebApp" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:LoginDemo" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:spring-mvc-user-reg-login" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:SICalculator" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:ElectricityBill" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:ForgottenPass" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:ElectricBillMVC" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:SpringMVCCrudDemo1" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:SpringMVCCrudDemo2" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:LoginDemo2" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:RegistrationDemo" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:LoggerDemo" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:MVCCrudBanking" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:ProjectProposalAndPurchase01" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:JSTLDemo" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:EmployeeManagement_WebApp_Latest" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:RegistrationFormMVC" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:SpringMVCDemoU" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:SpringMVCCrudDemo" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:JSPDemo2" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:JSPDemo1" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:MVCRegistrationForm" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:SI" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:E_Project_Proposal_And_Purchase" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:CustomValidation" serverId="Tomcat v8.5 Server at localhost"/>
+</modules>

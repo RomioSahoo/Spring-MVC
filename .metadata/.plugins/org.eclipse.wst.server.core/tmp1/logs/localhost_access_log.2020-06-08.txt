@@ -1,0 +1,4 @@
+127.0.0.1 - - [08/Jun/2020:19:42:49 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [08/Jun/2020:19:42:52 +0530] "GET /UserRegistration/ HTTP/1.1" 404 730
+0:0:0:0:0:0:0:1 - - [08/Jun/2020:19:43:29 +0530] "GET /UserRegistration/Index.html HTTP/1.1" 200 930
+0:0:0:0:0:0:0:1 - - [08/Jun/2020:19:43:31 +0530] "POST /UserRegistration/FrontController HTTP/1.1" 200 1842

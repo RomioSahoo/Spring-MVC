@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Register</title>
+<style>
+button {
+	background-color: #003366;
+	color: white;
+	padding: 14px 20px;
+	margin: 8px 10px;
+	border: none;
+	cursor: pointer;
+}
+
+button:hover {
+	opacity: 0.8;
+}
+</style>
+<script>
+	function checkPassword(form) {
+
+		password1 = form.password.value;
+		password2 = form.confpass.value;
+		if (password1 != password2) {
+			alert("\nPassword did not match: Please try again...")
+			return false;
+		}
+
+	}
+</script>
+</head>
+<body bgcolor="#b3b3b3">
+	<h1 style="text-align: center;">Sign Up</h1>
+	<p style="text-align: center;">Please fill in this form to create
+		an account.</p>
+	<div style="padding-left: 50px;">
+		<form action="RegistrationControllerL" method="post"
+			onSubmit="return checkPassword(this)">
+			<table style="margin-left: auto; margin-right: auto;">
+				<tr>
+					<td><b>Full Name :</b></td>
+					<td><input type="text" name="fullname"
+						placeholder="enter your fullname" required></td>
+				</tr>
+				<tr>
+					<td><b>User Name :</b></td>
+					<td><input type="text" name="username"
+						placeholder="enter your username" required></td>
+				</tr>
+				<tr>
+					<td><b>Password :</b></td>
+					<td><input type="password" name="password" id="password"
+						title="Must contain at least one number and one uppercase and lowercase letter, and at least 8 or more characters"
+						placeholder="enter your password"
+						pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" required></td>
+				</tr>
+				<tr>
+					<td><b>Confirm Password :</b></td>
+					<td><input type="password" name="confpass" id="confpass"
+						placeholder="confirm your password" required></td>
+				</tr>
+				<tr>
+					<td><b>Gender :</b></td>
+					<td><input type="radio" name="gender" value="male" required>Male
+						<input type="radio" name="gender" value="female">Female</td>
+				</tr>
+				<tr>
+					<td><b>Email :</b></td>
+					<td><input type="email" name="email"
+						placeholder="enter your email" required></td>
+				</tr>
+				<tr>
+					<td><b>Date of Birth :</b></td>
+					<td><input type="date" name="dob" placeholder="YYYY-MM-DD"
+						required></td>
+				</tr>
+
+				<tr>
+					<td></td>
+					<td>
+						<button type="submit">Register</button>
+					</td>
+				</tr>
+			</table>
+		</form>
+	</div>
+
+</body>
+</html>
